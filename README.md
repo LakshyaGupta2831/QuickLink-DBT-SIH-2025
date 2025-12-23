@@ -11,8 +11,10 @@
 ## 👤 Author
 
 **Sahil Bhagwat**  
-B.Tech CSE(Artificial Intelligence), VIIT Pune  
-Smart India Hackathon 2025 Grand finalist & runner up
+B.Tech CSE (Artificial Intelligence), VIIT Pune  
+Smart India Hackathon 2025 – Grand Finalist & Runner-Up
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-bhagwat-3b8a10264/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/s_ahil_24/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://sahil-portfolio-seven-rosy.vercel.app/)
 
 ## 🏆 Hackathon Context
 
@@ -160,6 +162,12 @@ Designed for students with limited internet access or low digital literacy.
 
 ---
 
+## Extra Awareness (On Field)
+
+graphical poster that can be added up on notice boards in gram panchayat schools and colleges to spread awareness, attached in the ending of readme under screenshots
+
+---
+
 ## 🔑 Key Highlights
 
 - ✅ Multi-channel access: Web, WhatsApp, IVR, CSC
@@ -227,6 +235,14 @@ Below are some screenshots showcasing the major features of the platform.
 ### 📍 Nearby CSC Center Finder
 
 ![CSC Finder](screenshots/CSC.png)
+
+### Awareness Poster
+
+![Awareness Poster](screenshots/SIH'25%20Infographic.png)
+
+### Team Photo
+
+![Team Photo](screenshots/team.jpg)
 
 > 📌 **Note:**  
 > All screenshots are available inside a `/screenshots` folder in the root of the repository.
