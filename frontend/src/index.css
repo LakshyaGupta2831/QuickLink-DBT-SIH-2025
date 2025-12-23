@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* dark theme */
+.dark {
+    --bg: #0D1117,
+    --cardbg: #161B22,
+    --textprimary: #FFFFFF,
+    --textsecondary: #C9D1D9,
+    --mutedtext: #8B949E,
+    --border: #30363D,
+    --blueaccent: #2389FF
+    --greenaccent: #0FB37A,
+    --orangewarning: #F0883E,
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "CSC Center 1",
+    "address": "123 Main St, Anytown, USA",
+    "lat": 20.5937,
+    "lng": 78.9629,
+    "distance_m": 0
+  },
+  {
+    "id": 2,
+    "name": "CSC Center 2",
+    "address": "456 Oak Ave, Anytown, USA",
+    "lat": 20.6,
+    "lng": 78.97,
+    "distance_m": 1000
+  },
+  {
+    "id": 3,
+    "name": "CSC Center 3",
+    "address": "789 Pine Ln, Anytown, USA",
+    "lat": 20.58,
+    "lng": 78.95,
+    "distance_m": 2000
+  }
+]

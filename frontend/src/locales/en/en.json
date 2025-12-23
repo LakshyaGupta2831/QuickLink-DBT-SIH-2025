@@ -1,0 +1,82 @@
+{
+  "fact": "Did you know? 1 in 4 students miss their scholarships due to improper DBT setup!",
+  "home": {
+    "title": "Secure Your Scholarship",
+    "subtitle": "Ensure your bank account is Aadhar seeded to receive government benefits on time.",
+    "navigation": {
+      "home": "Home",
+      "learn_the_difference": "Aadhar linking vs Aadhar seeding",
+      "check_dbt_status": "Check DBT Status",
+      "help_center": "Help Center",
+      "community": "Community",
+      "tools_and_resources": "Documents and Videos",
+      "call_and_chat_support": "Call / Chat Support"
+    },
+    "header": {},
+    "main": {
+      "check_dbt_status": {
+        "main_line": "Check Your Aadhar seeding Status",
+        "sub_line": "Verify if your account is Direct benefit transfer (dbt) enabled"
+      },
+      "learn_the_difference": {
+        "main_line": "Learn the Difference",
+        "sub_line": "Understand Aadhar Linked vs Aadhar Seeded for DBT"
+      }
+    },
+    "quickinfo": {
+      "title": "Quick Information",
+      "info1": {
+        "title": "Important Notice",
+        "component": "Aadhaar linked ≠ DBT-enabled",
+        "description": "Just linking Aadhaar is not enough for scholarships"
+      },
+      "info2": {
+        "title": "Common Issue",
+        "component": "Without DBT seeding, scholarship is delayed",
+        "description": "Your funds may be stuck without proper DBT setup"
+      },
+      "info3": {
+        "title": "Solution",
+        "component": "Watch our Steps to enable DBT in your bank",
+        "description": "Follow our simple guide to activate DBT and avoid delays"
+      }
+    },
+    "footer": {
+      "helpcenter": "Help Center",
+      "community": "Community",
+      "toolsandresources": "Tools & Resources",
+      "contact": "Contact Us"
+    }
+  },
+  "checkscreen": {
+    "title": "Check Your DBT Status",
+    "subtitle": "Verify if your bank account can receive Direct Benefit Transfers",
+    "enter_details": "Enter Your Details",
+    "checkusing": "Check Using",
+    "aadhar": "Aadhaar Number",
+    "account": "Bank Account Number",
+    "button": "Check Status",
+    "buttonpressed": "Checking...",
+    "resultsuccess": {
+      "congo": "Congratulations!",
+      "subline": "Your account is DBT-enabled and can receive scholarships.",
+      "bank": "Bank",
+      "accountnumber": "Account Number",
+      "lastupdated": "Last Updated"
+    },
+    "resultfailure": {
+      "failure": "Action Required",
+      "subline": "Your account is Aadhaar-linked but not DBT-enabled. Scholarships may be delayed.",
+      "howtoenable": "How to Enable DBT",
+      "step1": "Visit your bank branch",
+      "step2": "Request for DBT seeding",
+      "step3": "Provide your Aadhaar number",
+      "step4": "Get confirmation receipt"
+    },
+    "learn_the_differnece": {
+      "main_line": "Understand the Difference",
+      "sub_line": "Learn why Aadhar seeding is crucial for receiving scholarships",
+      "main_line2": "Comparison: Aadhaar Linked vs Aadhaar Seeded (DBT Enabled)"
+    }
+  }
+}
