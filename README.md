@@ -11,7 +11,7 @@
 ## 👤 Author
 
 **Sahil Bhagwat**  
-B.Tech (AI Specialization)  
+B.Tech CSE(Artificial Intelligence), VIIT Pune  
 Smart India Hackathon 2025 Grand finalist & runner up
 
 ## 🏆 Hackathon Context
