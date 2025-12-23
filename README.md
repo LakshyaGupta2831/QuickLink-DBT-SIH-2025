@@ -199,7 +199,7 @@ graphical poster that can be added up on notice boards in gram panchayat schools
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 Below are some screenshots showcasing the major features of the platform.
 
