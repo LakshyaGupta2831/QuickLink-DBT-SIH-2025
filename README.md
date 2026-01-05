@@ -19,7 +19,7 @@ Smart India Hackathon 2025 – Grand Finalist & Runner-Up
 ## 👤 Co-Author / Contributor
 
 **Lakshya Gupta**  
-B.Tech CSE, VIIT Pune  
+B.Tech CSE (Artificial Intelligence & Machine Learning), VIIT Pune  
 Smart India Hackathon 2025 – Grand Finalist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-gupta-211375294/)
