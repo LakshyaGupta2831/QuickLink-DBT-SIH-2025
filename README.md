@@ -16,6 +16,15 @@ Smart India Hackathon 2025 – Grand Finalist & Runner-Up
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-bhagwat-3b8a10264/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/s_ahil_24/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://sahil-portfolio-seven-rosy.vercel.app/)
 
+## 👤 Co-Author / Contributor
+
+**Lakshya Gupta**  
+B.Tech CSE, VIIT Pune  
+Smart India Hackathon 2025 – Grand Finalist
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-gupta-211375294/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LakshyaGupta2831)
+
 ## 🏆 Hackathon Context
 
 This project was developed as part of **Smart India Hackathon (SIH) 2025 Grand Finale** for the problem statement '**Enhancing Student Awareness on difference between Aadhaar linked and Direct Beneficiary Transfer(DBT) enabled Aadhaar seeded bank account.**', provided by '**Ministry of Social Justice & Empowerment (MoSJE)**' focusing on solving real-world governance and citizen-centric challenges using technology.
