@@ -8,15 +8,8 @@
 `#SmartIndiaHackathon` `#SIH2025` `#GovTech` `#DigitalIndia` `#DBT` `#Aadhaar`  
 `#AI` `#Chatbot` `#IVR` `#WhatsAppBot` `#Analytics` `#PublicWelfare`
 
-## 👤 Author
 
-**Sahil Bhagwat**  
-B.Tech CSE (Artificial Intelligence), VIIT Pune  
-Smart India Hackathon 2025 – Grand Finalist & Runner-Up
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-bhagwat-3b8a10264/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/s_ahil_24/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://sahil-portfolio-seven-rosy.vercel.app/)
-
-## 👤 Co-Author / Contributor
+## 👤 Author 
 
 **Lakshya Gupta**  
 B.Tech CSE (Artificial Intelligence & Machine Learning), VIIT Pune  
