@@ -133,7 +133,7 @@ export default function Profile() {
                   Full Name
                 </label>
                 <div className="text-lg text-gray-900 pb-2 border-b border-gray-200">
-                  {user.fullName}
+                  {user?.fullName}
                 </div>
               </div>
 
@@ -143,7 +143,7 @@ export default function Profile() {
                   Email
                 </label>
                 <div className="text-lg text-gray-900 pb-2 border-b border-gray-200">
-                  {user.email}
+                  {user?.registeredEmail }
                 </div>
               </div>
 
@@ -153,7 +153,7 @@ export default function Profile() {
                   State
                 </label>
                 <div className="text-lg text-gray-900 pb-2 border-b border-gray-200">
-                  {user.state}
+                  {user?.state || "Maharashtra"}
                 </div>
               </div>
 
@@ -161,7 +161,7 @@ export default function Profile() {
               <div>
                 <label className="block text-sm text-gray-500 mb-1">City</label>
                 <div className="text-lg text-gray-900 pb-2 border-b border-gray-200">
-                  {user.city}
+                  {user?.city || "Pune"}
                 </div>
               </div>
 
@@ -171,7 +171,7 @@ export default function Profile() {
                   Category of User
                 </label>
                 <div className="text-lg text-gray-900 pb-2 border-b border-gray-200">
-                  {user.category}
+                  {user?.role}
                 </div>
 
                 {/* <select
@@ -193,7 +193,7 @@ export default function Profile() {
                 <input
                   type="checkbox"
                   disabled={true}
-                  checked={user.isSubscribedToEmail}
+                  checked={false}
                   onChange={(e) => setSubscribeAlerts(e.target.checked)}
                   className="w-5 h-5 text-blue-600 border-gray-300 rounded focus:ring-blue-500"
                 />
@@ -209,7 +209,7 @@ export default function Profile() {
             {/* DBT Status Card */}
             <div className="bg-gray-50 rounded-lg p-6">
               <div className="flex items-start gap-3 mb-4">
-                {user.isSeeded ? (
+                {user?.isVerified ? (
                   <CheckCircle className="w-6 h-6 text-green-600 flex-shrink-0 mt-1" />
                 ) : (
                   <AlertCircle className="w-6 h-6 text-red-600 flex-shrink-0 mt-1" />
@@ -223,11 +223,11 @@ export default function Profile() {
               <div className="space-y-2 ml-9">
                 <div className="text-gray-700">
                   <span className="font-medium">Status:</span>{" "}
-                  {user.isSeeded ? "Seeded" : "Not Seeded"}
+                  {user?.isVerified ? "Seeded" : "Not Seeded"}
                 </div>
                 <div className="text-gray-700">
                   <span className="font-medium">Laste Checked:</span>{" "}
-                  {new Date(user.updatedAt).toLocaleString()}
+                  {"N/A"}
                 </div>
               </div>
             </div>

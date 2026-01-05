@@ -37,6 +37,7 @@ import fileRouter from "./routes/fileRouter.js";
 import messageRouter from "./routes/messageRouter.js";
 import emailRouter from "./routes/emailRoutes.js";
 import videoRouter from "./routes/videoRouter.js";
+import otpRouter from "./routes/otpRouter.js"; //
 
 app.use("/ping", (req, res) => {
   console.log("Hello World");
@@ -48,6 +49,7 @@ app.use("/api/file", fileRouter);
 app.use("/api/message", messageRouter);
 app.use("/api/email", emailRouter);
 app.use("/api/video", videoRouter);
+app.use("/api/otp", otpRouter);
 // app.use("/api/mapper", mapperRouter);
 // app.use("/api/message", messageRouter);
 

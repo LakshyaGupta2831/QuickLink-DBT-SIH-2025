@@ -409,7 +409,7 @@ import toast from "react-hot-toast";
 import AuthContext from "../context/AuthContext";
 import digilockerLogo from "../assets/digilocker-logo.png"; // <-- update path if needed
 
-const npci_url = import.meta.env.VITE_NPCI_URL; // dummy digilocker/npci base url
+const npci_url = "http://localhost:3000";
 
 const Signin = () => {
   const { setIsAuthenticated, setUser } = useContext(AuthContext);
@@ -483,24 +483,30 @@ const Signin = () => {
       //   isSeeded: "false",
       //   isProfileComplete: "false",
       // }
-      let user = {
-        email: data.user.registeredEmail,
-        state: data.user.state,
-        city: data.user.city,
-        isSeeded: data.user.seedingStatus,
-        fullName: data.user.name,
-        category: data.user.category,
-      };
-      setUser(user);
+    let user = {
+  email: data.user.registeredEmail,
+  state: data.user.state || "",
+  city: data.user.city || "",
+  isSeeded: data.user.seedingStatus || false,
+  fullName: data.user.name || "",
+  category: data.user.category || "",
+};
+
+     setUser(user);
       setIsAuthenticated(true);
 
-      // if backend returns user data, store it
-      if (data?.data?.user) {
-        setUser({
-          ...data.data.user,
-          sub: data.data.sub,
-        });
-      }
+  //    ✅ persist session
+        localStorage.setItem("user", JSON.stringify(user));
+        localStorage.setItem("isAuthenticated", "true");
+
+
+      // // if backend returns user data, store it
+      // if (data?.data?.user) {
+      //   setUser({
+      //     ...data.data.user,
+      //     sub: data.data.sub,
+      //   });
+      // }
     } catch (err) {
       console.error(err);
       setError(
