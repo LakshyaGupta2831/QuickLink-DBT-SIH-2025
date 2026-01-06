@@ -11,7 +11,7 @@
 
 ## 👤 Author 
 
-**Lakshya Gupta**  
+**HEHEHHE**  
 B.Tech CSE (Artificial Intelligence & Machine Learning), VIIT Pune  
 Smart India Hackathon 2025 – Grand Finalist
 
